@@ -1,4 +1,4 @@
-
+Aura is an offline music player, that comes with lots of good feautures.
    Installation Guide
 Download the APK
 Open the file
